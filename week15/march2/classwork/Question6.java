@@ -42,7 +42,7 @@ public class Question6 {
 			}
 		}
 		else {
-			while(evenIndex < odd.size()) {
+			while(evenIndex < even.size()) {
 				Array[resultIndex] = even.get(evenIndex);
 				evenIndex++;
 				resultIndex++;
